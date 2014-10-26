@@ -1,0 +1,2 @@
+git+https://github.com/dalleng/twython.git
+pymongo==2.7.2
